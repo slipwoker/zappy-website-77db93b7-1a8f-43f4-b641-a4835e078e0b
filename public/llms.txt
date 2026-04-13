@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ChefMarket היא פלטפורמת התיווך המובילה לעסקי מזון בישראל. מכירת מסעדות, חנויות מזון וציוד מקצועי — הכל במקום אחד. הצטרף עכשיו!
+
+### שירותים
+https://example.com/services
+גלה את מגוון השירותים של ChefMarket: רישום עסקים למכירה, חיפוש ציוד מסעדות מקצועי ותיווך חכם בין קונים למוכרים בתעשיית המזון. התחל היום!
+
+### אודות
+https://example.com/about
+ChefMarket נולדה מתוך הבנה עמוקה של עולם המסעדנות. אנחנו מחברים בין בעלי מסעדות, חנויות מזון וקונים פוטנציאליים בפלטפורמת תיווך ייחודית שמשנה את השוק.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על מכירת ציוד למסעדות או רוצה לרשום את העסק שלך? צוות ChefMarket כאן בשבילך. צור קשר עכשיו ונעזור לך לסגור את העסקה הנכונה!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ChefMarket
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ChefMarket
+
+### Category
+https://example.com/category/:slug
+מוצרים - ChefMarket
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
