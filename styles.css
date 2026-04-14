@@ -10617,6 +10617,65 @@ body.accessibility-widget-visible ._access-menu {
   }
 }
 
+@media (max-width: 768px) {
+.index-hero-section .index-hero-container {
+  padding: 100px 20px 60px !important;
+}
+
+.index-hero-section .index-hero-content {
+  max-width: 100% !important;
+  align-items: flex-start !important;
+}
+
+.index-hero-section .index-hero-headline {
+  font-size: 42px !important;
+  margin-bottom: 16px !important;
+}
+
+.index-hero-section .index-hero-subheadline {
+  font-size: 16px !important;
+  margin-bottom: 28px !important;
+}
+
+.index-hero-section .index-hero-cta-group {
+  flex-direction: column !important;
+  align-items: stretch !important;
+  gap: 10px !important;
+  margin-bottom: 32px !important;
+}
+
+.index-hero-section .index-hero-btn-primary,
+  .index-hero-section .index-hero-btn-secondary {
+  font-size: 15px !important;
+  padding: 14px 20px !important;
+  text-align: center !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  white-space: normal !important;
+}
+
+.index-hero-section .index-hero-stats {
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  justify-content: center !important;
+  gap: 8px !important;
+  padding: 14px 12px !important;
+}
+
+.index-hero-section .index-hero-stat {
+  padding: 0 12px !important;
+}
+
+.index-hero-section .index-hero-stat-number {
+  font-size: 20px !important;
+}
+
+.index-hero-section .index-hero-stat-label {
+  font-size: 11px !important;
+  white-space: nowrap !important;
+}
+}
+
 /* ========== EMPTY SUBMENU HIDING (Auto-added by Zappy) ========== */
 .sub-menu:empty,
 .dropdown-menu:empty,
